@@ -1,5 +1,5 @@
-import { TAllColors } from '../types/colors.type';
-import { TColorIntensity } from '../types/colorIntensities.type';
+import { TAllColors } from '../../types/colors.type';
+import { TColorIntensity } from '../../types/colorIntensities.type';
 
 export const bgColor = (color: TAllColors | undefined, shade: TColorIntensity | undefined) => {
 	if (typeof color === 'undefined') return null;

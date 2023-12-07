@@ -60,7 +60,7 @@ export const appPages = {
 						id: 'audioPage',
 						to: '/ai/chat/code',
 						text: 'Code Generation',
-						icon: 'HeroCommandLine',
+						icon: 'HeroCommandLin',
 					},
 				},
 			},
@@ -238,7 +238,7 @@ export const appPages = {
 		id: 'vaccineForecasting',
 		to: '/vaccineForecasting',
 		text: 'vaccine Forecasting',
-		icon: 'HeroEnvelope',
+		icon: 'HeroEnvelopeOpen',
 		subPages: {},
 	},
 	mailAppPages: {
@@ -252,7 +252,7 @@ export const appPages = {
 		id: 'reports',
 		to: '/reports',
 		text: 'Reports',
-		icon: 'HeroEnvelope',
+		icon: 'HeroUser',
 		subPages: {},
 	},
 	chatAppPages: {
